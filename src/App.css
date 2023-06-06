@@ -463,6 +463,7 @@ section {
   }
   .desc > h1 {
     font-size: 2.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   .price {
     flex-direction: column;
